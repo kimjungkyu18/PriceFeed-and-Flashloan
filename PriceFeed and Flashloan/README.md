@@ -1,4 +1,4 @@
-# AP Capital Assessment (PriceFeed and Flashloan)
+# Pricefeed and Flashloan
 
 This assessment was done using Solidity, Truffle, and tested on the Kovan testnet. 
 
